@@ -1,0 +1,32 @@
+html {
+  font-size: 14px;
+  font-family: 'Poppins', sans-serif;
+  background-color:#7CAB97;
+}
+
+body {
+  width: 600px;
+  margin: 20px auto;
+  background-color: white;
+  padding: 20px 20px 20px 20px;
+  border: 1px solid white;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+}
+
+p {
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+#headshot, button {
+  display: block;
+  margin: 0 auto;
+}
